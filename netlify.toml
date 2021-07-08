@@ -1,5 +1,5 @@
 [build]
-  publish = "exampleSite/public"
+  publish = "tli-2/public"
   command = "hugo"
 
 [build.environment]
