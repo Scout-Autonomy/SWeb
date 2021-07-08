@@ -1,5 +1,5 @@
 ################################# Default configuration ###################
-baseURL = "https://examplesite.com"
+baseURL = "https://scoutautonomy.com"
 title = "Scout Autonomy"
 theme = "meghna-hugo"
 # post pagination
@@ -194,4 +194,3 @@ languageCode = "fr-fr"
 contentDir = "content/french"
 weight = 2
 home = "Accueil"
- 
