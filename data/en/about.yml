@@ -1,0 +1,16 @@
+############################# About ###################################
+about:
+  enable : true
+  title : About Us
+  about_item :
+  - icon : ti-ruler-pencil # themify icon pack : https://themify.me/themify-icons
+    title : Integration
+    content : Our professional services afford factories small and large to integrate their services together in a snap - hosted on the local or decentralized cloud. You pick it, we make it happen.
+
+  - icon : ti-cup # themify icon pack : https://themify.me/themify-icons
+    title : Visualization
+    content : Scout shows you what you should see. All your relevant information, all in one place. No more app-swapping or updating different software to make sure you're on track.
+
+  - icon : ti-thought # themify icon pack : https://themify.me/themify-icons
+    title : Transformation
+    content : Our goal is to bring ambitious and visionary factories into Industry 4.0 by means of making factory operations as straightforward and seamless as possible. Focus on the future.

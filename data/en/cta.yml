@@ -1,0 +1,11 @@
+############################# call to action ##############################
+cta:
+  enable : true
+  bg_image : "images/backgrounds/bg-white-wall.jpg"
+  bg_image_webp : "images/backgrounds/bg-white-wall.webp"
+  title : "Your most recent unexpectd downtime was your last unexpected downtime."
+  content : "Contact us for a free consultation on integration, database, and intelligence services."
+  button:
+    enable : true
+    label : "Start a project with us"
+    link : "#contact"

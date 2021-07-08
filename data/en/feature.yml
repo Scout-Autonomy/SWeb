@@ -1,0 +1,27 @@
+############################# feature ###################################
+feature:
+  enable : true
+  image : images/about/about-business-man.jpg
+  image_webp : images/about/about-business-man.webp
+  title : We’re an automation agency.
+  content : "We want you to focus on the future - that's what matters. Stop reacting to problems you shoudln't have to deal with - no more data gaps or improperly-transcribed information."
+  feature_item : 
+      # feature item loop
+    - title : Unified Data
+      icon : ti-world # themify icon pack : https://themify.me/themify-icons
+      content : Your information only needs to be entered once. No sense in updating different platforms to make sure your factory is in ship-shape. 
+      
+      # feature item loop
+    - title : Modular Visualization
+      icon : ti-panel # themify icon pack : https://themify.me/themify-icons
+      content : Pick what you want to display where you want it. Set visual dashboards to display information to those who need it.
+
+      # feature item loop
+    - title : Performance AI
+      icon : ti-stats-up # themify icon pack : https://themify.me/themify-icons
+      content : With your database comes great responsibility. Scout AI offers custom-generated insights based on what works for your factory.
+      
+      # feature item loop
+    - title : Tagging
+      icon : ti-announcement # themify icon pack : https://themify.me/themify-icons
+      content : Know what happens when it happens. Scout helps factories stay on track and know when a task or batch has been completed, then historizes it for future reference. 

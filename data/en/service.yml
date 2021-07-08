@@ -1,0 +1,29 @@
+################################# Service #################################
+service:
+  enable : true
+  title : Digital Floor Capabilities
+  service_item :
+    # service item loop
+    - name : Bidirectional API Connection
+      icon : ti-world # themify icon pack : https://themify.me/themify-icons
+      content : We connect everything you need connected immediately upon subscription.
+      
+    # service item loop
+    - name : AI Insight
+      icon : ti-layout # themify icon pack : https://themify.me/themify-icons
+      content : People make mistakes. Scout AI nullifies that. Know when something seems off, or even see if you'd shave a few dollars off by getting a change in delivery date. 
+      
+    # service item loop
+    - name : Visualization
+      icon : ti-blackboard # themify icon pack : https://themify.me/themify-icons
+      content : Want to see what your software is doing for your factory? Floor Templates offer you a point-and-click view to see how your factory stands. Don't like what we have? We do custom builds, too.
+      
+    # service item loop
+    - name : Pipeline Development
+      icon : ti-package # themify icon pack : https://themify.me/themify-icons
+      content : Need information from A to get to B? We're good at that.
+      
+    # service item loop
+    - name : Cloud Integration
+      icon : ti-pulse # themify icon pack : https://themify.me/themify-icons
+      content : Get off the ground - put your business in the cloud with Scout and stop worrying about maintaining your network infrastructure.
