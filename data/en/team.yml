@@ -1,6 +1,6 @@
 ############################### team ############################
 team:
-  enable : false
+  enable : True
   title : Our Team
   team_member :
     # team member loop
